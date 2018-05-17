@@ -1,0 +1,44 @@
+{  
+   "PROCEDUREHISTORY":{  
+      "RecordType":"PROCEDURE HISTORY",
+      "Language":"en",
+      "ProcedureHistory":[  
+         {  
+            "Specimen":{  
+               "Term":"34",
+               "SourceVocabulary":"222",
+               "SourceVocabularyCode":"333"
+            },
+            "HealthEventDate":"03\/04\/2018",
+            "HealthEventOrderDate":"03\/04\/2018",
+            "HealthEventStatus":{  
+               "Term":"Completed",
+               "SourceVocabulary":"33",
+               "SourceVocabularyCode":"33"
+            },
+            "HealthEventCategoryText":"Billing Service",
+            "HealthEvent":{  
+               "Term":"TEST Data",
+               "SourceVocabulary":"TEST Vocabulary",
+               "SourceVocabularyCode":"TEST"
+            },
+            "PresenceStateTerm":"Present",
+            "LastUpdateDate":"03\/04\/2018 03:03:12"
+         }
+      ],
+      "mID":{  
+         "IDtype":"TESTTS",
+         "IDvalue":"TESTACT12"
+      }
+   },
+   "memberID":{  
+      "Firstname":"2",
+      "DOB":"09-14-1999",
+      "SubscriberID":"22",
+      "ID":"222",
+      "Lastname":"2",
+      "AlternateID":"22",
+      "EmployeeNum":"22",
+      "SSN":""
+   }
+}
